@@ -12,5 +12,3 @@ export function manageFriends(state, action) {
       return state;
   }
 }
-
-// test 
